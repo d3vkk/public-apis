@@ -1,6 +1,6 @@
-# Public API's
+# Public APIs
 
-### API for Public API's
+### API for Public APIs
 
 https://api.publicapis.org/entries?category=books&auth=null&https=true
 
