@@ -61,3 +61,21 @@ https://rel.ink/api/links/
 ### Finance Stock Exchange
 
 https://financialmodelingprep.com/api/v3/company/profile/NVDA
+
+## Contribution
+
+To contribute, [use this guide](https://github.com/d3vkk/open-source/blob/master/CONTRIBUTING.md)
+
+## Usage
+
+Star this repo for future reference
+
+Press `.` to open in browser-based Vscode
+
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/d3vkk/public-apis)
+
+Fork or clone this repo
+```
+git clone https://github.com/d3vkk/public-apis.git
+```
+
